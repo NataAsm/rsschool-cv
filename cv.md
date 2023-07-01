@@ -4,10 +4,11 @@
 + Phone: +37529 250-99-13
 Email: Asmalouskaya2.22@gmail.com
 GitHub: NataAsm
+========
 About Me
 
 I am responsible, I quickly master new directions (and if not quickly, then persistently and persistently). **I work well in a team**
-
+=======
 ## Skills
 HTML
 CSS
@@ -20,7 +21,9 @@ function squareArea(a) {
 
 let result = squareArea(1, 2);
 alert( result );
+=======
 ## Experience
+========
 ## Education
 University: Belarusian State University
 Courses:
