@@ -26,5 +26,5 @@ University: Belarusian State University
 Courses:
 CS50 lectures
 English
-A1 (I'm trying)
+A1 (I'm trying))))
 
