@@ -1,7 +1,7 @@
 # Asmalouskaya Natalli
 ## Contacts
 + Location: Minsk, Belarus
-+ Phone: +375 29 250-99-13
++ Phone: +37529 250-99-13
 Email: Asmalouskaya2.22@gmail.com
 GitHub: NataAsm
 About Me
